@@ -13,3 +13,4 @@ torchsde==0.2.6
 einops
 opencv-contrib-python
 safetensors
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
